@@ -1,3 +1,4 @@
+<div id="header" align="center">
 <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Wave"/>
@@ -12,4 +13,13 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40" style="margin: 5px;"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" style="margin: 5px;"/>
     <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" style="margin: 5px;"/>
+    <hr style="width:80%;text-align:center;">
 </div>
+
+<div>
+    <a>
+        :warning: Segmentation fault (Core dumped)
+    </a>
+    </div>
+</div>
+
